@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: com.jonathan_zollinger
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, data, data-jdbc, gradle, h2, http-client-test, jackson-databind, java, java-application, jdbc-hikari, kafka, logback, micronaut-build, problem-json, properties, readme, retry, shade, spock, test-resources, validation]
